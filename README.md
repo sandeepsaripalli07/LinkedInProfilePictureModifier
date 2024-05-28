@@ -20,4 +20,3 @@ To modify the replacement image, replace `images/new-profile-picture.png` with y
 ## License
 
 MIT License
-
